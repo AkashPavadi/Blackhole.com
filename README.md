@@ -1,11 +1,9 @@
-# Blackhole.com
-Blackhole token
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Blackhole</title>
+    <title>Blackhole.org</title>
     <style>
         body {
             background-image: url('https://images.unsplash.com/photo-1531490780509-152db0c9a863');
@@ -24,7 +22,7 @@ Blackhole token
     </style>
 </head>
 <body>
-    <h1>Welcome to the Blackhole</h1>
-    <p>Explore the infinite.</p>
+    <h1>Welcome to the Blackhole.org</h1>
+    <p>Dive into the mysteries of the universe.</p>
 </body>
 </html>
